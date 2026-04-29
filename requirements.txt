@@ -2,3 +2,5 @@ python-dotenv
 psycopg2-binary
 SPARQLWrapper
 requests
+fastapi
+uvicorn
